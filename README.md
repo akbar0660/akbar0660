@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbar0660&label=Profile%20views&color=0e75b6&style=flat" alt="akbar0660" /> </p>
 
-- 🌱 I’m currently learning **RestApi**
+- 🌱 I’m currently learning **Microservice architecture**
 
 - 💬 Ask me about **c# and ASP.NET Core**
 
