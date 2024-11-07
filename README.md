@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Microservice architecture**
 
-- 💬 Ask me about **c# and ASP.NET Core**
+- 💬 Ask me about **Java and Spring Boot**
 
 - 📫 How to reach me **akbarbabayev0@gmail.com**
 
